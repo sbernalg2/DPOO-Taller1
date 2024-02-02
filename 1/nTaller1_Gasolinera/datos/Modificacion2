@@ -1,0 +1,13 @@
+tipo:Extra:520:15951.538461538461
+tipo:Corriente:193:20500.0
+tipo:Premium:1050:15000.0
+tipo:Diesel:410:17495.0
+surtidor:Ana:Extra:10.0:Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Pedro:Extra:0.0:Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Miguel:Extra:38.46153846153846:Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Pedro:Extra:0.0:Corriente:0.0:Premium:0.0:Diesel:5.0
+empleado:Laura:0
+empleado:Ana:5200
+empleado:Pedro:2050
+empleado:Miguel:20000
+empleado:Carlos:0
